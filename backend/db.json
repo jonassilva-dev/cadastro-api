@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "jonas batista da silva",
+      "email": "jonas@orientme.com.br",
+      "id": 1
+    },
+    {
+      "name": "christiane ornellas",
+      "email": "Chris_is.flower@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "christian ornellas",
+      "email": "contact@orientme.com.br",
+      "id": 3
+    }
+  ]
+}
